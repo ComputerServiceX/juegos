@@ -1,0 +1,6 @@
+{
+  "name": "Retro Platformer Unity Creator",
+  "description": "Simulador de plataformas 2D retro con exportador de scripts C# para Unity 6 (Windows, Android, iOS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
